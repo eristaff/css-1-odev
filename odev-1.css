@@ -1,0 +1,17 @@
+/****************** Layout ******************/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: coral;
+    list-style-position: inside;
+    text-align: center;
+}
+
+h1 {
+    font-size:45px;
+}
+
+.header-1 {
+    color: red;
+    font-size: 30px;
+}
